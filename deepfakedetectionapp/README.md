@@ -42,3 +42,45 @@ As deepfakes become more realistic and widespread, there's a pressing need to de
    ```bash
    git clone https://github.com/MayankNarain/deepfake-detector.git
    cd deepfake-detector
+
+2. Create a virtual Enviroment and activate it:
+   ```bash
+   python -m venv venv
+   venv\Scripts\activate   # Windows
+   source venv/bin/activate  # Mac/Linux
+
+3. Install Dependencies:
+   ```bash
+   pip install -r requirements.txt
+
+4. Run the Web Page:
+   ```bash
+   python app.py
+
+5.Go to browser and visit
+   https://127.0.1:500/
+
+---
+
+📌 Limitations
+This is a prototype, not a production system.
+Performance may vary depending on the dataset and hardware.
+Model accuracy can be improved with more training data and fine-tuning.
+
+🧠 Acknowledgements
+FaceForensics++ Dataset
+
+Deepware Scanner inspiration
+
+XceptionNet architecture
+
+OpenCV + Flask Community
+
+You can copy this into your `README.md` and update your repo URL, LinkedIn, or model info as needed.
+
+Want me to also generate the `requirements.txt` for this project or [create a thumbnail/banner image](f) for your repo?
+   
+   
+   
+   
+   
