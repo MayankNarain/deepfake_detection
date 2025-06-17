@@ -40,5 +40,5 @@ As deepfakes become more realistic and widespread, there's a pressing need to de
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/deepfake-detector.git
+   git clone https://github.com/MayankNarain/deepfake-detector.git
    cd deepfake-detector
