@@ -1,4 +1,8 @@
-# 🧠 AI Against AI: A Deep Learning Approach to Detecting Deepfakes
+
+![DEEPFAKE](https://github.com/user-attachments/assets/6952f206-11e4-4ed3-ad73-a2662eb5fd15)
+
+
+# AI Against AI: A Deep Learning Approach to Detecting Deepfakes
 
 This project is a proof-of-concept web-based tool designed to detect deepfake videos using AI-powered models. It uses computer vision and deep learning techniques to analyze video frames and identify manipulated or synthetic content.
 
