@@ -78,7 +78,7 @@ OpenCV + Flask Community
 
 You can copy this into your `README.md` and update your repo URL, LinkedIn, or model info as needed.
 
-Want me to also generate the `requirements.txt` for this project or [create a thumbnail/banner image](f) for your repo?
+
    
    
    
